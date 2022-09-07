@@ -1,7 +1,7 @@
 ### Vite 搭建 Vue2 项目（Vue2 + vue-router + vuex）
 - node 版本 -- v16.14.0
 - npm 版本 -- 8.3.1
-- 
+- 提示版本不要太低，否则会出现运行不起来问题！
 1、创建项目
 ```node
 npm init vite@latest
