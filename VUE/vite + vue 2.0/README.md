@@ -20,8 +20,8 @@ npm init vite@latest
 ```node
   npm install vue@2
   npm install vite-plugin-vue2 -D
-  npm install vue-router@3.5.1 -D
-  npm install vuex@3.6.2 -D
+  npm install vue-router@3.5.1
+  npm install vuex@3.6.2
 ```
 
 - package.json文件内容
